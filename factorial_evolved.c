@@ -29,7 +29,7 @@ int main(void)
 		printf("\nThe number of digits: %ld\n",num_size);
 	}
 
-	else printf("Factorial: 1\nThe number of digits: 1\n");
+	else printf("Factorial: 1\nThe number of digits: 1\nwe are the legends\n");
 
 	return 0;
 }
